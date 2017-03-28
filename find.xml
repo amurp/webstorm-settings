@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/jrh/white.box/MEAN-Enterprise/Web.UI/src/common/directives/splash/splash.directive.js'" />
     <option name="defaultScopeName" value="File '/Users/jrh/white.box/MEAN-Enterprise/Web.UI/src/common/directives/splash/splash.directive.js'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/jrh/white.box/MEAN-Enterprise/Web.UI/src/common/directives/splash/splash.directive.js'" />
   </component>
 </application>
