@@ -12,6 +12,7 @@
       <mapping pattern="jjj" type="PLAIN_TEXT" />
       <mapping pattern="jljj" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="index.js" type="PLAIN_TEXT" />
       <mapping pattern="ewrer" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
     </extensionMap>
